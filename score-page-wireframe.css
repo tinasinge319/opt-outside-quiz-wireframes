@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.quiz-info {
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
+
+.question-box {
+  border: black 1px solid;
+  text-align: center;
+  width: 400px;
+  margin: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
